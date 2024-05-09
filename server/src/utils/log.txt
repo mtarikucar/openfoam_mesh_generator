@@ -1,0 +1,105 @@
+2024-05-06T17:14:17.814Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: helmet is not defined, IP: no-ip
+2024-05-06T17:27:54.027Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: helmet is not defined, IP: no-ip
+2024-05-06T17:37:47.762Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: helmet is not defined, IP: no-ip
+2024-05-06T17:37:50.443Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: helmet is not defined, IP: no-ip
+2024-05-06T17:38:02.797Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-06T17:38:07.087Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-06T17:45:17.611Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-06T17:45:40.000Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-06T17:48:21.983Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-06T17:53:37.609Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T16:00:41.391Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:00:41.477Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:01:15.940Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:01:16.492Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:01:46.567Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:01:47.008Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:01:47.679Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:02:02.158Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:02:07.127Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:02:09.421Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:04:25.249Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T16:07:50.476Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:08:19.392Z - Result Code: 00014, Level: Client Error, Error Message: Endpoint could not find!, IP: ::1
+2024-05-07T16:43:26.539Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T16:44:24.414Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T16:44:40.456Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T16:47:14.490Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T16:52:48.035Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T16:52:49.000Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T16:53:09.375Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T16:54:42.149Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T17:00:53.470Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T17:02:07.097Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T17:05:03.887Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T18:13:31.897Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T18:32:11.940Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T18:33:26.055Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T18:34:54.396Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T18:37:52.180Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-07T18:38:46.589Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: logger.error is not a function, IP: no-ip
+2024-05-09T11:51:32.829Z - Result Code: 00001, Level: Uncaught Exception, Error Message: listen EADDRINUSE: address already in use :::3000, IP: no-ip
+2024-05-09T11:51:47.521Z - Result Code: 00001, Level: Uncaught Exception, Error Message: listen EADDRINUSE: address already in use :::3000, IP: no-ip
+2024-05-09T15:04:22.186Z - Result Code: 00001, Level: Uncaught Exception, Error Message: listen EADDRINUSE: address already in use :::3000, IP: no-ip
+2024-05-09T15:04:27.757Z - Result Code: 00001, Level: Uncaught Exception, Error Message: listen EADDRINUSE: address already in use :::3000, IP: no-ip
+2024-05-09T15:04:46.517Z - Result Code: 00001, Level: Uncaught Exception, Error Message: listen EADDRINUSE: address already in use :::3000, IP: no-ip
+2024-05-09T15:06:11.274Z - Result Code: 00001, Level: Uncaught Exception, Error Message: listen EADDRINUSE: address already in use :::3000, IP: no-ip
+2024-05-09T15:13:44.184Z - Result Code: 00001, Level: Uncaught Exception, Error Message: listen EADDRINUSE: address already in use :::3000, IP: no-ip
+2024-05-09T15:45:02.884Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T15:47:26.188Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: __dirname is not defined, IP: no-ip
+2024-05-09T15:47:41.270Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: __dirname is not defined, IP: no-ip
+2024-05-09T15:49:24.666Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: __dirname is not defined, IP: no-ip
+2024-05-09T15:49:32.180Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: __dirname is not defined, IP: no-ip
+2024-05-09T15:50:22.181Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: __dirname is not defined, IP: no-ip
+2024-05-09T15:56:29.433Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: __dirname is not defined, IP: no-ip
+2024-05-09T16:33:39.988Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T16:34:10.004Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T16:34:56.074Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T16:35:00.136Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T16:35:27.445Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T16:35:31.629Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T16:35:46.132Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T16:35:57.397Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T16:44:01.880Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T16:44:06.173Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T16:44:10.899Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T16:47:27.857Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T16:48:14.960Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T16:53:51.566Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T17:08:21.929Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:10:05.648Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:11:39.678Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T17:14:00.507Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T17:30:52.262Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:31:23.232Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:31:37.701Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:31:47.220Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:32:04.167Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:32:06.311Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:32:11.258Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:32:22.515Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:32:50.405Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:34:25.357Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: filePath is not defined, IP: no-ip
+2024-05-09T17:34:30.601Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: filePath is not defined, IP: no-ip
+2024-05-09T17:34:42.112Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: filePath is not defined, IP: no-ip
+2024-05-09T17:34:45.496Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: filePath is not defined, IP: no-ip
+2024-05-09T17:35:01.141Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: filePath is not defined, IP: no-ip
+2024-05-09T17:35:29.412Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: filePath is not defined, IP: no-ip
+2024-05-09T17:36:54.928Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T17:42:45.413Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: The "path" argument must be of type string. Received undefined, IP: no-ip
+2024-05-09T17:46:20.081Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T17:46:56.647Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T17:46:59.689Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T17:47:10.748Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T17:47:10.774Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:17:28.653Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:17:43.073Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:17:49.192Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:17:53.659Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:18:10.657Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:18:22.054Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:18:27.821Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:29:48.132Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:29:58.869Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:30:31.359Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
+2024-05-09T20:33:21.465Z - Result Code: 00002, Level: Unhandled Rejection, Error Message: ipHelper is not defined, IP: no-ip
